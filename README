@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=518
+
+Simple commands to highlight CSV files. At this moment it only supports tab delimited files.
